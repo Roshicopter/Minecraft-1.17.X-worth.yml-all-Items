@@ -66,11 +66,11 @@ worth:
   nethergoldore: 1.5
   quartzore: 2
   ancientdebris: 1.7
-  blockofcoal: 18
-  blockofrawiron: 50
-  blockofrawcopper: 50
-  blockofrawgold: 75
-  blockofamethyst: 2
+  coalblock: 18
+  rawironblock: 50
+  rawcopperblock: 50
+  rawgoldblock: 75
+  amethystblock: 2
   buddingamethyst: 2
   ironblock: 90
   copperblock: 80
