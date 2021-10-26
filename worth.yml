@@ -111,284 +111,283 @@ worth:
   oaklog: 2.0
   sprucelog: 2.0
   birchlog: 2.0
-  junglelog:
-  acacialog:
-  darkoaklog:
-  crimsonstem:
-  warpedstem:
-  strippedoaklog:
-  strippedsprucelog:
-  strippedbirchlog:
-  strippedjunglelog:
-  strippedacacialog:
-  strippeddarkoaklog:
-  strippedwarpedstem:
-  strippedoakwood:
-  strippedsprucewood:
-  strippedbirchwood:
-  strippedjunglewood:
-  strippedacaciawood:
-  strippeddarkoakwood:
-  strippedcrimsonhyphae:
-  strippedwarpedhyphae:
-  oakwood:
-  sprucewood:
-  birchwood:
-  junglewood:
-  acaciawood:
-  darkoakwood:
-  crimsonhyphae:
-  warpedhyphae:
-  sponge:
-  wetsponge:
-  glass:
-  tintedglass:
-  lapisblock:
-  sandstone:
-  chiseledsandstone:
-  cutsandstone::
-  whitewool:
-  orangewool:
-  magentawool:
-  lightbluewool:
-  yellowwool:
-  limewool:
-  pinkwool:
-  graywool:
-  lightgraywool:
-  cyanwool:
-  purplewool:
-  bluewool:
-  brownwool:
-  greenwool:
-  redwool:
-  blackwool:
-  oakslab:
-  spruceslab:
-  birchslab:
-  jungleslab:
-  acaciaslab:
-  darkoakslab:
-  crimsonslab:
-  warpedslab:
-  stoneslab:
-  smoothstoneslab:
-  sandstoneslab:
-  cutsandstoneslab:
-  petrifiedoakslab:
-  cobblestoneslab:
-  brickslab:
-  stonebrickslab:
-  netherbrickslab:
-  quartzslab:
-  redsandstoneslab:
-  cutredsandstoneslab:
-  purpurslab:
-  prismarineslab:
-  prismarinebrickslab:
-  darkprismarineslab:
-  smoothquartz:
-  smoothredsandstone:
-  smoothsandstone:
-  smoothstone:
-  bricks:
-  bookshelf:
-  mossycobblestone:
-  obsidian:
-  purpurblock:
-  purpurpillar:
-  purpurstairs:
-  oakstairs:
-  cobblestonestairs:
-  ice:
-  snowblock:
-  clay:
-  pumpkin:
-  carvedpumpkin:
-  jackolantern:
-  netherrack:
-  soulsand:
-  soulsoil:
-  basalt:
-  polishedbasalt:
-  smoothbasalt:
-  glowstone:
-  stonebricks:
-  mossystonebricks:
-  crackedstonebricks:
-  chiseledstonebricks:
-  deepslatebricks:
-  crackeddeepslatebricks:
-  deepslatetiles:
-  crackeddeepslatetiles:
-  chiseleddeepslate:
-  melon:
-  brickstairs:
-  stonebrickstairs:
-  mycelium:
-  netherbricks:
-  crackednetherbricks:
-  chiselednetherbricks:
-  netherbrickstairs:
-  endstone:
-  endstonebricks:
-  sandstonestairs:
-  emeraldblock:
-  sprucestairs:
-  birchstairs:
-  junglestairs:
-  crimsonstairs:
-  warpedstairs:
-  chiseledquartzblock:
-  quartzblock:
-  quartzbricks:
-  quartzpillar:
-  quartzstairs:
-  whiteterracotta:
-  orangeterracotta:
-  magentaterracotta:
-  lightblueterracotta:
-  yellowterracotta:
-  limeterracotta:
-  pinkterracotta:
-  grayterracotta:
-  lightgrayterracotta:
-  cyanterracotta:
-  purpleterracotta:
-  blueterracotta:
-  brownterracotta:
-  greenterracotta:
-  redterracotta:
-  blackterracotta:
-  terracotta:
-  hayblock:
-  packedice:
-  acaciastairs:
-  darkoakstairs:
-  whitestainedglass:
-  orangestainedglass:
-  magentastainedglass:
-  lightbluestainedglass:
-  yellowstainedglass:
-  limestainedglass:
-  pinkstainedglass:
-  graystainedglass:
-  lightgraystainedglass:
-  cyanstainedglass:
-  purplestainedglass:
-  bluestainedglass:
-  brownstainedglass:
-  greenstainedglass:
-  redstainedglass:
-  blackstainedglass:
-  prismarine:
-  prismarinebricks:
-  darkprismarine:
-  prismarinestairs:
-  prismarinebrickstairs:
-  darkprismarinestairs:
-  sealantern:
-  redsandstone:
-  chiseledredsandstone:
-  cutredsandstone:
-  redsandstonestairs:
-  magmablock:
-  netherwartblock:
-  warpedwartblock:
-  rednetherbricks:
-  boneblock:
-  whiteconcrete:
-  orangeconcrete:
-  magentaconcrete:
-  lightblueconcrete:
-  yellowconcrete:
-  limeconcrete:
-  pinkconcrete:
-  grayconcrete:
-  lightgrayconcrete:
-  cyanconcrete:
-  purpleconcrete:
-  blueconcrete:
-  brownconcrete:
-  greenconcrete:
-  redconcrete:
-  blackconcrete:
+  junglelog: 2.0
+  acacialog: 2.0
+  darkoaklog: 2.0
+  crimsonstem: 2.0
+  warpedstem: 2.0
+  strippedoaklog: 0.3
+  strippedsprucelog: 0.3
+  strippedbirchlog: 0.3
+  strippedjunglelog: 0.3
+  strippedacacialog: 0.3
+  strippeddarkoaklog: 0.3
+  strippedwarpedstem: 0.3
+  strippedoakwood: 0.3
+  strippedsprucewood: 0.3
+  strippedbirchwood: 0.3
+  strippedjunglewood: 0.3
+  strippedacaciawood: 0.3
+  strippeddarkoakwood: 0.3
+  strippedcrimsonhyphae: 0.3
+  strippedwarpedhyphae: 0.3
+  oakwood: 0.3
+  sprucewood: 0.3
+  birchwood: 0.3
+  junglewood: 0.3
+  acaciawood: 0.3
+  darkoakwood: 0.3
+  crimsonhyphae: 0.3
+  warpedhyphae: 0.3
+  sponge: 3
+  wetsponge: 2.8
+  glass: 1.8
+  tintedglass: 1.7
+  lapisblock: 63.0
+  sandstone: 1.0
+  chiseledsandstone: 1.0
+  cutsandstone:: 0.3
+  whitewool: 2.5
+  magentawool: 2.5
+  lightbluewool: 2.5
+  yellowwool: 2.5
+  limewool: 2.5
+  pinkwool: 2.5
+  graywool: 2.5
+  lightgraywool: 2.5
+  cyanwool: 2.5
+  purplewool: 2.5
+  bluewool: 2.5
+  brownwool: 2.5
+  greenwool: 2.5
+  redwool: 2.5
+  blackwool: 2.5
+  oakslab: 0.25
+  spruceslab: 0.25
+  birchslab: 0.25
+  jungleslab: 0.25
+  acaciaslab: 0.25
+  darkoakslab: 0.25
+  crimsonslab: 0.25
+  warpedslab: 0.25
+  stoneslab: 0.25
+  smoothstoneslab: 0.25
+  sandstoneslab: 0.25
+  cutsandstoneslab: 0.25
+  petrifiedoakslab: 0.25
+  cobblestoneslab: 0.25
+  brickslab: 0.25
+  stonebrickslab: 0.25
+  netherbrickslab: 0.25
+  quartzslab: 0.25
+  redsandstoneslab: 0.25
+  cutredsandstoneslab: 0.25
+  purpurslab: 0.25
+  prismarineslab: 0.25
+  prismarinebrickslab: 0.25
+  darkprismarineslab: 0.25
+  smoothquartz: 1.0
+  smoothredsandstone: 1.0
+  smoothsandstone: 1.0
+  smoothstone: 1.0
+  bricks: 2.0
+  bookshelf: 3
+  mossycobblestone: 1.2
+  obsidian: 2.0
+  purpurblock: 1.0
+  purpurpillar: 0.25
+  purpurstairs: 0.25
+  oakstairs: 0.25
+  cobblestonestairs: 0.25
+  ice: 1.0
+  snowblock: 0.1
+  clay: 0.2
+  pumpkin: 1.2
+  carvedpumpkin: 1.3
+  jackolantern: 1.4
+  netherrack: 0.8
+  soulsand: 1.2
+  soulsoil: 1.2
+  basalt: 1.0
+  polishedbasalt: 1.0
+  smoothbasalt: 1.0
+  glowstone: 2.0
+  stonebricks: 1.0
+  mossystonebricks: 1.0
+  crackedstonebricks: 1.0
+  chiseledstonebricks: 1.0
+  deepslatebricks: 1.0
+  crackeddeepslatebricks: 1.0
+  deepslatetiles: 1.0
+  crackeddeepslatetiles: 1.0
+  chiseleddeepslate: 1.0
+  melon: 0.8
+  brickstairs: 0.25
+  stonebrickstairs: 0.25
+  mycelium: 1.2
+  netherbricks: 1.4
+  crackednetherbricks: 1.3
+  chiselednetherbricks: 1.35
+  netherbrickstairs: 0.25
+  endstone: 1.3
+  endstonebricks: 1.4
+  sandstonestairs: 0.25
+  emeraldblock: 270.0
+  sprucestairs: 0.25
+  birchstairs: 0.25
+  junglestairs: 0.25
+  crimsonstairs: 0.25
+  warpedstairs: 0.25
+  chiseledquartzblock: 1.2
+  quartzblock: 1.0
+  quartzbricks: 1.0
+  quartzpillar: 0.2
+  quartzstairs: 0.25
+  whiteterracotta: 1.0
+  orangeterracotta: 1.0
+  magentaterracotta: 1.0
+  lightblueterracotta: 1.0
+  yellowterracotta: 1.0
+  limeterracotta: 1.0
+  pinkterracotta: 1.0
+  grayterracotta: 1.0
+  lightgrayterracotta: 1.0
+  cyanterracotta: 1.0
+  purpleterracotta: 1.0
+  blueterracotta: 1.0
+  brownterracotta: 1.0
+  greenterracotta: 1.0
+  redterracotta: 1.0
+  blackterracotta: 1.0
+  terracotta: 1.0
+  hayblock: 1.2
+  packedice: 1.0
+  acaciastairs: 0.25
+  darkoakstairs: 0.25
+  whitestainedglass: 2.0
+  orangestainedglass: 2.0
+  magentastainedglass: 2.0
+  lightbluestainedglass: 2.0
+  yellowstainedglass: 2.0
+  limestainedglass: 2.0
+  pinkstainedglass: 2.0
+  graystainedglass: 2.0
+  lightgraystainedglass: 2.0
+  cyanstainedglass: 2.0
+  purplestainedglass: 2.0
+  bluestainedglass: 2.0
+  brownstainedglass: 2.0
+  greenstainedglass: 2.0
+  redstainedglass: 2.0
+  blackstainedglass: 2.0
+  prismarine: 1.0
+  prismarinebricks: 1.0
+  darkprismarine: 1.0
+  prismarinestairs: 1.0
+  prismarinebrickstairs: 1.0
+  darkprismarinestairs: 1.0
+  sealantern: 2.5
+  redsandstone: 1.0
+  chiseledredsandstone: 1.1
+  cutredsandstone: 0.3
+  redsandstonestairs: 0.25
+  magmablock: 1.0
+  netherwartblock: 1.0
+  warpedwartblock: 1.0
+  rednetherbricks: 1.0
+  boneblock: 1.0
+  whiteconcrete: 1.0
+  orangeconcrete: 1.0
+  magentaconcrete: 1.0
+  lightblueconcrete: 1.0
+  yellowconcrete: 1.0
+  limeconcrete: 1.0
+  pinkconcrete: 1.0
+  grayconcrete: 1.0
+  lightgrayconcrete: 1.0
+  cyanconcrete: 1.0
+  purpleconcrete: 1.0
+  blueconcrete: 1.0
+  brownconcrete: 1.0
+  greenconcrete: 1.0
+  redconcrete: 1.0
+  blackconcrete: 1.0
   whiteconcretepowder: 0.5
   orangeconcretepowder: 0.5
-  magentaconcretepowder:
-  lightblueconcretepowder:
-  yellowconcretepowder:
-  limeconcretepowder:
-  pinkconcretepowder:
-  grayconcretepowder:
-  lightgrayconcretepowder:
-  cyanconcretepowder:
-  purpleconcretepowder:
-  blueconcretepowder:
-  brownconcretepowder:
-  greenconcretepowder:
-  redconcretepowder:
-  blackconcretepowder:
-  deadtubecoralblock:
-  deadbraincoralblock:
-  deadbubblecoralblock:
-  deadfirecoralblock:
-  deadhorncoralblock:
-  tubecoralblock:
-  braincoralblock:
-  bubblecoralblock:
-  firecoralblock:
-  horncoralblock:
-  blueice:
-  polishedgranitestairs:
-  smoothredsandstonestairs:
-  mossystonebrickstairs:
-  polisheddioritestairs:
-  mossycobblestonestairs:
-  endstonebrickstairs:
-  stonestairs:
-  smoothsandstonestairs:
-  smoothquartzstairs:
-  granitestairs:
-  andesitestairs:
-  rednetherbrickstairs:
-  polishedandesitestairs:
-  dioritestairs:
-  cobbleddeepslatestairs:
-  polisheddeepslatestairs:
-  deepslatebrickstairs:
-  deepslatetilestairs:
-  polishedgraniteslab:
-  smoothredsandstoneslab:
-  mossystonebrickslab:
-  polisheddioriteslab:
-  mossycobblestoneslab:
-  endstonebrickslab:
-  smoothsandstoneslab:
-  smoothquartzslab:
-  graniteslab:
-  andesiteslab:
-  rednetherbrickslab:
-  polishedandesiteslab:
-  dioriteslab:
-  cobbleddeepslateslab:
-  polisheddeepslateslab:
-  deepslatebrickslab:
-  deepslatetileslab:
-  driedkelpblock:
-  cryingobsidian:
-  blackstone:
-  blackstoneslab:
-  blackstonestairs:
-  gildedblackstone:
-  polishedblackstone:
-  polishedblackstoneslab:
-  polishedblackstonestairs:
-  chiseledpolishedblackstone:
-  polishedblackstonebricks:
-  polishedblackstonebrickslab:
-  polishedblackstonebrickstairs:
-  crackedpolishedblackstonebricks:
+  magentaconcretepowder: 0.5
+  lightblueconcretepowder: 0.5
+  yellowconcretepowder: 0.5
+  limeconcretepowder: 0.5
+  pinkconcretepowder: 0.5
+  grayconcretepowder: 0.5
+  lightgrayconcretepowder: 0.5
+  cyanconcretepowder: 0.5
+  purpleconcretepowder: 0.5
+  blueconcretepowder: 0.5
+  brownconcretepowder: 0.5
+  greenconcretepowder: 0.5
+  redconcretepowder: 0.5
+  blackconcretepowder: 0.5
+  deadtubecoralblock: 1.0
+  deadbraincoralblock: 1.0
+  deadbubblecoralblock: 1.0
+  deadfirecoralblock: 1.0
+  deadhorncoralblock: 1.0
+  tubecoralblock: 1.0
+  braincoralblock: 1.0
+  bubblecoralblock: 1.0
+  firecoralblock: 1.0
+  horncoralblock: 1.0
+  blueice: 1.0
+  polishedgranitestairs: 0.25
+  smoothredsandstonestairs: 0.25
+  mossystonebrickstairs: 0.25
+  polisheddioritestairs: 0.25
+  mossycobblestonestairs: 0.25
+  endstonebrickstairs: 0.25
+  stonestairs: 0.25
+  smoothsandstonestairs: 0.25
+  smoothquartzstairs: 0.25
+  granitestairs: 0.25
+  andesitestairs: 0.25
+  rednetherbrickstairs: 0.25
+  polishedandesitestairs: 0.25
+  dioritestairs: 0.25
+  cobbleddeepslatestairs: 0.25
+  polisheddeepslatestairs: 0.25
+  deepslatebrickstairs: 0.25
+  deepslatetilestairs: 0.25
+  polishedgraniteslab: 0.25
+  smoothredsandstoneslab: 0.25
+  mossystonebrickslab: 0.25
+  polisheddioriteslab: 0.25
+  mossycobblestoneslab: 0.25
+  endstonebrickslab: 0.25
+  smoothsandstoneslab: 0.25
+  smoothquartzslab: 0.25
+  graniteslab: 0.25
+  andesiteslab: 0.25
+  rednetherbrickslab: 0.25
+  polishedandesiteslab: 0.25
+  dioriteslab: 0.25
+  cobbleddeepslateslab: 0.25
+  polisheddeepslateslab: 0.25
+  deepslatebrickslab: 0.25
+  deepslatetileslab: 0.25
+  driedkelpblock: 1.0
+  cryingobsidian: 1.5
+  blackstone: 1.0
+  blackstoneslab: 0.25
+  blackstonestairs: 0.25
+  gildedblackstone: 1.0
+  polishedblackstone: 1.0
+  polishedblackstoneslab: 0.25
+  polishedblackstonestairs: 0.25
+  chiseledpolishedblackstone: 1.0
+  polishedblackstonebricks: 1.0
+  polishedblackstonebrickslab: 0.25
+  polishedblackstonebrickstairs: 0.25
+  crackedpolishedblackstonebricks: 1.0
   
   
   
