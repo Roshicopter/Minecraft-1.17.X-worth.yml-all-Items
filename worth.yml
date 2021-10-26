@@ -21,14 +21,14 @@ worth:
   calcite: 1.3
   tuff: 1.3
   dripstoneblock: 1.3
-  grassblock: 3
-  dirt: 1
-  coarsedirt: 1
-  podzol: 2
-  rooteddirt: 1
-  crimsonnylium: 2
-  warpednylium: 2
-  cobblestone: 1
+  grassblock: 3.0
+  dirt: 1.0
+  coarsedirt: 1.0
+  podzol: 2.0
+  rooteddirt: 1.0
+  crimsonnylium: 2.0
+  warpednylium: 2.0
+  cobblestone: 1.0
   oakplanks: 0.5
   spruceplanks: 0.5
   birchplanks: 0.5
@@ -44,46 +44,46 @@ worth:
   acaciasapling: 1.5
   darkoaksapling: 1.5
   bedrock: 50
-  sand: 1
+  sand: 1.0
   redsand: 1.2
   gravel: 1.2
-  coal_ore: 1
-  deepslatecoalore: 1
-  ironore: 10
-  deepslateironore: 10
-  copperore: 7
-  deepslatecopperore: 7
-  goldore: 15
-  deepslategoldore: 15
-  redstoneore: 3
-  deepslateredstoneore: 3
-  emeraldore: 15
-  deepslateemeraldore: 15
-  lapisore: 5
-  deepslatelapisore: 5
-  diamondore: 75
-  deepslatediamondore: 75
+  coalore: 1.0
+  deepslatecoalore: 1.0
+  ironore: 10.0
+  deepslateironore: 10.0
+  copperore: 7.0
+  deepslatecopperore: 7.0
+  goldore: 15.0
+  deepslategoldore: 15.0
+  redstoneore: 3.0
+  deepslateredstoneore: 3.0
+  emeraldore: 15.0
+  deepslateemeraldore: 15.0
+  lapisore: 5.0
+  deepslatelapisore: 5.0
+  diamondore: 75.0
+  deepslatediamondore: 75.0
   nethergoldore: 1.5
-  quartzore: 2
+  quartzore: 2.0
   ancientdebris: 1.7
-  coalblock: 18
-  rawironblock: 50
-  rawcopperblock: 50
-  rawgoldblock: 75
-  amethystblock: 2
-  buddingamethyst: 2
-  ironblock: 90
-  copperblock: 80
-  goldblock: 135
-  diamondblock: 900
-  netheriteblock: 1500
-  exposedcopper: 2
-  weatheredcopper: 2
-  oxidizedcopper: 2
-  cutcopper: 2
-  exposedcutcopper: 2
-  weatheredcutcopper: 2
-  oxidizedcutcopper: 2
+  coalblock: 18.0
+  rawironblock: 50.0
+  rawcopperblock: 50.0
+  rawgoldblock: 75.0
+  amethystblock: 2.0
+  buddingamethyst: 2.0
+  ironblock: 90.0
+  copperblock: 80.0
+  goldblock: 135.0
+  diamondblock: 900.0
+  netheriteblock: 1500.0
+  exposedcopper: 2.0
+  weatheredcopper: 2.0
+  oxidizedcopper: 2.0
+  cutcopper: 2.0
+  exposedcutcopper: 2.0
+  weatheredcutcopper: 2.0
+  oxidizedcutcopper: 2.0
   cutcopperstairs: 0.4
   exposedcutcopperstairs: 0.4
   weatheredcutcopperstairs: 0.4
@@ -92,11 +92,21 @@ worth:
   exposedcutcopperslab: 0.6
   weatheredcutcopperslab: 0.6
   oxidizedcutcopperslab: 0.6
-  waxedcopperblock: 50
-  waxedexposedcopper: 50
-  waxedweatheredcopper: 50
-  waxedoxidizedcopper: 50
-  waxedcutcopper: 25
-  waxedexposedcutcopper: 25
-  
-  
+  waxedcopperblock: 3.0
+  waxedexposedcopper: 3.0
+  waxedweatheredcopper: 3.0
+  waxedoxidizedcopper: 3.0
+  waxedcutcopper: 3.0
+  waxedexposedcutcopper: 3.0
+  waxedweatheredcutcopper: 3.0
+  waxedoxidizedcutcopper: 3.0
+  waxedcutcopperstairs: 0.5
+  waxedexposedcutcopperstairs: 0.5
+  waxedweatheredcutcopperstairs: 0.5
+  waxedoxidizedcutcopperstairs: 0.5
+  waxedcutcopperslab: 0.3
+  waxedexposedcutcopperslab: 0.3
+  waxedweatheredcutcopperslab: 0.3
+  waxedoxidizedcutcopperslab: 0.3
+  oaklog: 2.0
+  sprucelog: 2.0
