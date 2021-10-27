@@ -1,7 +1,7 @@
 # Minecraft Version 1.15.X - 1.17.X
 # Made by Roshicopter (will be done: Nov 2021)
 # Let me know, if there are any exploits.
-# Without: "Enchantment Items, Potions, Tipped Arrows".
+# Without: "Enchantment Items, Potions, Spawn Eggs, Tipped Arrows".
 # Categories: "Building Blocks, Decoration Blocks, Redstone, Transportation, Miscellaneous, Foodstuffs, Tools, Combat".
 # u can change the Strings ofc.!
 
@@ -795,6 +795,172 @@ worth:
   jungleboat: 0.75
   acaciaboat: 0.75
   darkoakboat: 0.75
+  
+  # Miscellaneous
+  
+  beacon: 10.0
+  turtleegg: 2.5
+  conduit: 1.3
+  scute: 1.3
+  coal: 1.7
+  charcoal: 2.0
+  diamond: 100.0
+  emerald: 15.0
+  lapislazuli: 5.0
+  quartz: 1.0
+  amethystshard: 40.0
+  rawiron: 2.5
+  ironingot: 4
+  rawcopper: 1.5
+  copperingot: 2.0
+  rawgold: 3.0
+  goldingot: 9.0
+  netheriteingot: 135.0
+  netheritescrap: 30.0
+  stick: 0.1
+  bowl: 0.1
+  string: 0.5
+  feather: 1.2
+  gunpowder: 2.5
+  wheatseeds: 1.0
+  wheat: 2.2
+  flint: 1.7
+  bucket: 3.5
+  waterbucket: 3.5
+  lavabucket: 3.5
+  powdersnowbucket: 3.5
+  snowball: 0.1
+  leather: 2.45
+  milkbucket: 3.5
+  pufferfishbucket: 3.5
+  salmonbucket: 3.5
+  codbucket: 3.5
+  tropicalfishbucket: 3.5
+  axolotlbucket: 3.5
+  brick: 1.0
+  clayball: 0.8
+  paper: 1.2
+  book: 3.0
+  slimeball: 3.8
+  egg: 0.75
+  glowstonedust: 1.0
+  inksac: 1.35
+  glowinksac: 2.35
+  cocoabeans: 1.9
+  whitedye: 0.8
+  orangedye: 0.8
+  magentadye: 0.8
+  lightbluedye: 0.8
+  yellowdye: 0.8
+  limedye: 0.8
+  pinkdye: 0.8
+  graydye: 0.8
+  lightgraydye: 0.8
+  cyandye: 0.8
+  purpledye: 0.8
+  bluedye: 0.8
+  browndye: 0.8
+  greendye: 0.8
+  reddye: 0.8
+  blackdye: 0.8
+  bonemeal: 0.3
+  bone: 2.5
+  sugar: 1.0
+  pumpkinseeds: 1.0
+  melonseeds: 1.0
+  enderpearl: 2.0
+  blazerod: 2.5
+  goldnugget: 1.0
+  netherwart: 2.4
+  endereye: 2.3
+  experiencebottle: 2.5
+  firecharge: 1.5
+  writablebook: 1.7
+  map: 1.5
+  netherstar: 50.0
+  fireworkrocket: 1.7
+  fireworkstar: 1.4
+  netherbrick: 1.0
+  prismarineshard: 1.0
+  prismarinecrystals: 1.0
+  rabbithide: 1.5
+  ironhorsearmor: 5.0
+  goldhorsearmor: 10.0
+  diamondhorsearmor: 15.0
+  leatherhorsearmor: 3.0
+  chorusfruit: 1.8
+  poppedchorusfruit: 1.9
+  beetrootseeds: 1.5
+  shulkershell: 1.5
+  ironnugget: 0.1
+  musicdisc13: 3.0
+  musicdisccat: 3.5
+  musicdiscblocks: 4.0
+  musicdiscchirp: 3.7
+  musicdiscfar: 3.4
+  musicdiscmall: 3.55
+  musicdiscmellohi: 4.2
+  musicdiscstal: 1.25
+  musicdiscstrad: 4.4
+  musicdiscward: 2.6
+  musicdisc11: 1.5
+  musicdiscwait: 1.78
+  musicdiscpigstep: 2.0
+  nautilusshell: 1.2
+  heartofthesea: 10.0
+  flowerbannerpattern: 0.35
+  creeperbannerpattern: 0.35
+  skullbannerpattern: 0.35
+  mojangbannerpattern: 0.35
+  globebannerpattern: 0.35
+  piglinbannerpattern: 0.35
+  honeycomb: 1.2
+  
+  # Foodstuffs
+  
+  apple: 2.1
+  mushroomstew: 1.2
+  bread: 2.0
+  porkchop: 1.8
+  cookedporkchop: 2.0
+  goldenapple: 20.0
+  enchantedgoldenapple: 30.0
+  cod: 1.9
+  salmon: 2.3
+  tropicalfish: 2.4
+  pufferfish: 2.7
+  cookedcod: 2.1
+  cookedsalmon: 3.3
+  cake: 2.5
+  cookie: 0.3
+  melonslice: 1.7
+  driedkelp: 1.3
+  beef: 1.9
+  cookedbeef: 2.3
+  rawchicken: 1.3
+  cookedchicken: 1.7
+  rottenflesh: 0.25
+  spidereye: 1.25
+  carrot: 1.8
+  potato: 1.8
+  bakedpotato: 2.1
+  poisonouspotato: 0.5
+  pumpkinpie: 1.2
+  rawrabbit: 1.5
+  cookedrabbit: 2.1
+  rabbitstew: 1.8
+  mutton: 1.9
+  cookedmutton: 2.45
+  beetroot: 1.5
+  beetrootsoup: 1.7
+  sweetberries: 1.85
+  glowberries: 2.0
+  honeybottle: 2.3
+  
+  # Tools
+  
+  
+  
   
   
   
