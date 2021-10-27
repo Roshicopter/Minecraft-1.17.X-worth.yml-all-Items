@@ -1,8 +1,9 @@
 # Minecraft Version 1.15.X - 1.17.X
-# Made by Roshicopter (will be done: Nov 2021)
+# Made by Roshicopter
 # Let me know, if there are any exploits.
 # Without: "Enchantment Items, Potions, Spawn Eggs, Tipped Arrows".
 # Categories: "Building Blocks, Decoration Blocks, Redstone, Transportation, Miscellaneous, Foodstuffs, Tools, Combat".
+# Copy from Line 1 - 1048 and paste it into your "worth.yml" File.
 # u can change the Strings ofc.!
 
 worth:
@@ -992,10 +993,56 @@ worth:
   lead: 5.0
   nametag: 5.0
   
+  # Combat
   
+  turtlehelmet: 3.0
+  bow: 1.5
+  arrow: 1.0
+  woodensword: 1.0
+  stonesword: 1.5
+  goldensword: 13.0
+  ironsword: 4.0
+  diamondsword: 175.0
+  netheritesword: 210.0
+  leatherhelmet: 2.0
+  leatherchestplate: 2.0
+  leatherleggings: 2.0
+  leatherboots: 2.0
+  chainmailhelmet: 5.0
+  chainmailchestplate: 6.0
+  chainmailleggings: 5.5
+  chainmailboots: 4.0
+  ironhelmet: 10.0
+  ironchestplate: 13.0
+  ironleggings: 12.0
+  ironboots: 8.0
+  diamondhelmet: 400.0
+  diamondchestplate: 450.0
+  diamondleggings: 350.0
+  diamondboots: 300.0
+  goldenhelmet: 35.0
+  goldenchestplate: 40.0
+  goldenleggings: 35.0
+  goldenboots: 25.0
+  netheritehelmet: 450.0
+  netheritechestplate: 500.0
+  netheriteleggings: 400.0
+  netheriteboots: 350.0
+  shield: 5.0
+  totemofundying: 15.0
+  trident: 8.0
+  crossbow: 4.5
   
+  # Brewing
   
-  
-  
-  
-  
+  ghasttear: 4.0
+  fermentedspidereye: 1.5
+  blazepowder: 1.0
+  magmacream: 1.5
+  brewingstand: 3.5
+  cauldron: 1.2
+  glisteringmelonslice: 1.5
+  goldencarrot: 3.5
+  rabbitfoot: 2.5
+  dragon_breath: 5.0
+  phantom_membrane: 1.8
