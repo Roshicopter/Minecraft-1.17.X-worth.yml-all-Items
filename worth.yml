@@ -145,7 +145,7 @@ worth:
   wetsponge: 2.8
   glass: 1.8
   tintedglass: 1.7
-  lapisblock: 63.0
+  lapisblock: 50.0
   sandstone: 1.0
   chiseledsandstone: 1.0
   cutsandstone:: 0.3
@@ -960,7 +960,7 @@ worth:
   
   # Tools
   
-  flintandstell: 1.5
+  flintandsteel: 1.5
   woodenshovel: 1.0
   woodenpickaxe: 1.0
   woodenaxe: 1.0
