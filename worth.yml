@@ -702,6 +702,102 @@ worth:
   
   # Redstone
   
+  redstone: 1.0
+  redstonetorch: 1.05
+  redstoneblock: 9.0
+  repeater: 1.1
+  comparator: 1.1
+  piston: 1.25
+  stickypiston: 1.3
+  slimeblock: 1.2
+  honeyblock: 1.2
+  observer: 1.5
+  hopper: 1.1
+  dispenser: 1.1
+  dropper: 1.1
+  lectern: 1.25
+  target: 1.1
+  lever: 0.25
+  lightningrod: 1.1
+  daylightdetector: 1.25
+  tripwirehook: 1.25
+  trappedchest: 1.25
+  tnt: 2.0
+  redstonelamp: 1.5
+  noteblock: 1.25
+  stonebutton: 0.25
+  polishedblackstonebutton: 0.25
+  oakbutton: 0.25
+  sprucebutton: 0.25
+  birchbutton: 0.25
+  junglebutton: 0.25
+  acaciabutton: 0.25
+  darkoakbutton: 0.25
+  crimsonbutton: 0.25
+  warpedbutton: 0.25
+  stonepressureplate: 0.2
+  polishedblackstonepressureplate: 0.2
+  lightweightedpressureplate: 0.2
+  heavyweightedpressureplate: 0.2
+  oakpressureplate: 0.2
+  sprucepressureplate: 0.2
+  birchpressureplate: 0.2
+  junglepressureplate: 0.2
+  acaciapressureplate: 0.2
+  darkoakpressureplate: 0.2
+  crimsonpressureplate: 0.2
+  warpedpressureplate: 0.2
+  irondoor: 2.5
+  oakdoor: 0.3
+  sprucedoor: 0.3
+  birchdoor: 0.3
+  jungledoor: 0.3
+  acaciadoor: 0.3
+  darkoakdoor: 0.3
+  crimsondoor: 0.3
+  warpeddoor: 0.3
+  irontrapdoor: 0.4
+  oaktrapdoor: 0.4
+  sprucetrapdoor: 0.4
+  birchtrapdoor: 0.4
+  jungletrapdoor: 0.4
+  acaciatrapdoor: 0.4
+  darkoaktrapdoor: 0.4
+  crimsontrapdoor: 0.4
+  warpedtrapdoor: 0.4
+  oakfencegate: 0.3
+  sprucefencegate: 0.3
+  birchfencegate: 0.3
+  junglefencegate: 0.3
+  acaciafencegate: 0.3
+  darkoakfencegate: 0.3
+  crimsonfencegate: 0.3
+  warpedfencegate: 0.3
+  
+  # Transportation
+  
+  poweredrail: 1.0
+  detectorrail: 1.0
+  rail: 1.0
+  activatorrail: 1.0
+  saddle: 5.0
+  minecart: 2.0
+  chestminecart: 2.0
+  furnaceminecart: 2.0
+  tntminecart: 2.0
+  hopperminecart: 2.0
+  carrotonastick: 1.3
+  warpedfungusonastick: 1.3
+  elytra: 50.0
+  oakboat: 0.75
+  spruceboat: 0.75
+  birchboat: 0.75
+  jungleboat: 0.75
+  acaciaboat: 0.75
+  darkoakboat: 0.75
+  
+  
+  
   
   
   
