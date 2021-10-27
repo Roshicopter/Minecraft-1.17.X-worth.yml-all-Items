@@ -959,8 +959,38 @@ worth:
   
   # Tools
   
-  
-  
+  flintandstell: 1.5
+  woodenshovel: 1.0
+  woodenpickaxe: 1.0
+  woodenaxe: 1.0
+  woodenhoe: 1.0
+  stoneshove: 1.5
+  stonepickaxe: 1.5
+  stoneaxe: 1.5
+  stonehoe: 1.5
+  goldenshovel: 5.0
+  goldenpickaxe: 10.0
+  goldenaxe: 10.0
+  goldenhoe: 7.5
+  ironshovel: 3.0
+  ironpickaxe: 5.0
+  ironaxe: 5.0
+  ironhoe: 3.0
+  diamondshovel: 90.0
+  diamondpickaxe: 250.0
+  diamondaxe: 250.0
+  diamondhoe: 130.0
+  netheriteshovel: 100.0
+  netheritepickaxe: 300.0
+  netheriteaxe: 295.0
+  netheritehoe: 150.0
+  compass: 2.5
+  fishingrod: 1.5
+  clock: 10.0
+  spyglass: 5.0
+  shears: 2.0
+  lead: 5.0
+  nametag: 5.0
   
   
   
